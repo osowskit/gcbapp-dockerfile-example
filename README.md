@@ -1,8 +1,9 @@
-# Google Cloud Build
 
-## Dockerfile Example
+=======
+# Google Cloud Build Example 
 
-Example used in the Google Cloud Build - GitHub App tutorial
+Example used in the Cloud Build GitHub app tutorial
+
 https://cloud.google.com/cloud-build/docs/run-builds-on-github
 
 Simplify your team's CI process.
